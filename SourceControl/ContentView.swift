@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("Dev Branch First Change")
+            Text("Dev Branch First Change 2")
         }
         .padding()
     }
